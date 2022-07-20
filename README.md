@@ -1,6 +1,7 @@
 # Waiter app
 
 Link do herokuapp
+https://waiterapp-123.herokuapp.com/
 
 # Getting Started with Create React App
 
